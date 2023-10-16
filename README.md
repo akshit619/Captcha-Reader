@@ -75,10 +75,3 @@ python main.py
 After setting up project just place you images in line folder under the data directory and run the main.py file again. The program will show you images and its output in terminal one by one. If you think that your images is not recognised clearly by program just change the threshold value according to your needs for best output.
 
 NOTE: The model is trained for the above mentioned images so given them only in input images for best output.
-
-<br>
-<h3 align="left"> Made and maintained by : </h3>
-
-|<img src="https://avatars.githubusercontent.com/u/78701055?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/76533398?v=4" alt="drawing" width="150"/> | <img src="https://avatars.githubusercontent.com/u/75940729?v=4" alt="drawing" width="150"/> | 
-|--|--|--|
-|[Ankur Agarwal](https://github.com/Ankur-Agrawal-ece20) |[Aryaman Gupta](https://github.com/phoenixrider12) |[Vivek Agrawal](https://github.com/vivekagarwal2349) |
